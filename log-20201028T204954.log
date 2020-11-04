@@ -1,0 +1,18 @@
+20:50:25.808 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testFormLetTheCarWorkFromDataProvider with data: [Car{serialNumber='123-456-789', brand='Hyndai', model='I25', year='2012', price='100"'}]
+20:50:35.679 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testFormLetTheCarWorkFromDataProvider
+20:50:35.679 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+20:50:35.681 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testFormLetTheCarWorkFromDataProvider with data: [Car{serialNumber='456-789-123', brand='Hyndai', model='I35', year='2015', price='150"'}]
+20:50:48.915 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testFormLetTheCarWorkFromDataProvider
+20:50:48.916 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+20:50:48.917 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testFormLetTheCarWorkFromDataProvider with data: [Car{serialNumber='789-456-123', brand='Honda', model='Civic', year='2018', price='155"'}]
+20:50:53.231 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testFormLetTheCarWorkFromDataProvider
+20:50:53.232 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+20:50:53.233 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testFormLetTheCarWorkFromDataProvider with data: [Car{serialNumber='889-456-123', brand='Honda', model='Accord', year='2017', price='200"'}]
+20:50:57.258 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testFormLetTheCarWorkFromDataProvider
+20:50:57.258 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+20:50:57.260 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testFormLetTheCarWorkFromDataProvider with data: [Car{serialNumber='888-474-123', brand='VW', model='Golf', year='2016', price='120"'}]
+20:51:01.285 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testFormLetTheCarWorkFromDataProvider
+20:51:01.285 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+20:51:01.286 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testFormLetTheCarWorkFromDataProvider with data: [Car{serialNumber='888-776-173', brand='Suzuky', model='Jymny', year='2019', price='160"'}]
+20:51:05.318 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testFormLetTheCarWorkFromDataProvider
+20:51:05.318 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================

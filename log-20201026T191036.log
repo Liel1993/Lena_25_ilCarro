@@ -1,0 +1,6 @@
+19:10:53.909 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUp
+19:11:07.921 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUp
+19:11:07.921 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:11:07.926 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - Start test loginRegisteredUserPositiveTest
+19:11:15.271 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - Stop test loginRegisteredUserPositiveTest
+19:11:15.272 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================

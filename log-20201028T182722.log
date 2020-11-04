@@ -1,0 +1,9 @@
+18:27:49.727 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromDataProvider
+18:27:53.564 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromDataProvider
+18:27:53.564 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+18:27:53.565 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromDataProvider
+18:27:56.735 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromDataProvider
+18:27:56.736 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+18:27:56.755 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromDataProvider
+18:27:59.898 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromDataProvider
+18:27:59.898 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================

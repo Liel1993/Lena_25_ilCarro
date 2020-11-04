@@ -1,0 +1,24 @@
+19:34:53.537 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [User{fName='TesterU1', lName='TesterU1L', email='testU+7701@l.com', password='Qwertyuiop1'}]
+19:34:57.807 [main] INFO  com.ilcarro.qa.tests.TestBase - Login form present. actual result: trueexpected result is: true
+19:34:57.815 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:34:57.816 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:34:57.817 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [User{fName='TesterU-2', lName='TesterU2L', email='testU+7711@l.com', password='Qwertyuiop2'}]
+19:35:01.674 [main] INFO  com.ilcarro.qa.tests.TestBase - Login form present. actual result: trueexpected result is: true
+19:35:01.676 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:35:01.676 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:35:01.677 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [User{fName='TesterU_3', lName='TesterU3L', email='testU+7721@l.com', password='Qwertyuiop3'}]
+19:35:06.740 [main] INFO  com.ilcarro.qa.tests.TestBase - Login form present. actual result: trueexpected result is: true
+19:35:06.742 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:35:06.742 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:35:06.743 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [User{fName='TesterU4', lName='TesterU4L', email='testU+7731@l.com', password='Qwertyuiop4'}]
+19:35:13.121 [main] INFO  com.ilcarro.qa.tests.TestBase - Login form present. actual result: trueexpected result is: true
+19:35:13.122 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:35:13.122 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:35:13.123 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [User{fName='TesterU5', lName='TesterU5L', email='testU+7741@l.com', password='Qwertyuiop5'}]
+19:35:17.321 [main] INFO  com.ilcarro.qa.tests.TestBase - Login form present. actual result: trueexpected result is: true
+19:35:17.323 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:35:17.323 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:35:17.324 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [User{fName='TesterU6', lName='TesterU5L', email='testU+7751@l.com', password='Qwertyuiop6'}]
+19:35:20.830 [main] INFO  com.ilcarro.qa.tests.TestBase - Login form present. actual result: trueexpected result is: true
+19:35:20.831 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:35:20.831 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================

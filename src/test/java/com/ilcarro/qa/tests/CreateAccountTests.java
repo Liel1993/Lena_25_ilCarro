@@ -3,10 +3,16 @@ package com.ilcarro.qa.tests;
 import com.ilcarro.qa.model.User;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 public class CreateAccountTests extends TestBase {
     //preconditions: user shoud be logged out
+
     @BeforeMethod
     public void ensurePreconditions() {
         if (!app.header().isSignUpTabPresentInHeader()) {    //sign up not present
@@ -20,7 +26,7 @@ public class CreateAccountTests extends TestBase {
         app.session().fillRegistrationForm(new User()
                 .setfName("AS")
                 .setlName("FV")
-                .setEmail("aa" + System.currentTimeMillis() + "@bb318.com")
+                .setEmail("aa89" + System.currentTimeMillis() + "@bb318.com")
                 .setPassword("1Aaaaaaaa"));
 
         //click submit button
@@ -28,7 +34,40 @@ public class CreateAccountTests extends TestBase {
 
         //check, login form displayed
         Assert.assertTrue(app.session().isLoginFormPresent());
+        logger.info("Login form present. actual result: " + String.valueOf(app.session().isLoginFormPresent()) + "expected result is: true");
     }
 
+    @Test(dataProvider = "validUser",dataProviderClass = DataProviders.class)
+    public void testSignUpFromDataProvider(String fName, String lName, String email, String password) throws InterruptedException {
+        app.header().clickSignUp();
+        app.session().fillRegistrationForm(new User()
+                .setfName(fName)
+                .setlName(lName)
+                .setEmail(email)
+                .setPassword(password));
 
+        //click submit button
+        app.session().submitForm();
+
+        //check, login form displayed
+        Assert.assertTrue(app.session().isLoginFormPresent());
+        logger.info("Login form present. actual result: " + String.valueOf(app.session().isLoginFormPresent()) + "expected result is: true");
+
+
+    }
+
+    @Test(enabled = false,dataProvider = "validUserFromCSV",dataProviderClass = DataProviders.class)
+    public void  testSignUpFromCSVDataProvider(User user) throws InterruptedException {
+        app.header().clickSignUp();
+        app.session().fillRegistrationForm(user);
+
+        //click submit button
+        app.session().submitForm();
+
+        //check, login form displayed
+        Assert.assertTrue(app.session().isLoginFormPresent());
+        logger.info("Login form present. actual result: " + String.valueOf(app.session().isLoginFormPresent()) + "expected result is: true");
+
+
+    }
 }

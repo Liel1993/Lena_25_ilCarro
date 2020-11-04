@@ -9,14 +9,9 @@ public class SessionHelper extends HelperBase {
         super(wd);
     }
 
-
-
     public boolean isLoginFormPresent() {
         return isElementPresent(By.cssSelector(".Login_login__right_block__1niYm"));
     }
-
-
-
 
     public void clickLoginTabOnHeader() {
         click(By.cssSelector("[href='/login']"));

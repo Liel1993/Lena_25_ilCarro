@@ -1,0 +1,26 @@
+12:03:37.394 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test loginRegisteredUserPositiveTest with data: []
+12:03:37.398 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.cssSelector: .Login_login__right_block__1niYm. . .
+12:03:47.563 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.cssSelector: .Login_login__right_block__1niYmfound.
+12:03:47.563 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.xpath: //a[contains(., 'logOut')]. . .
+12:03:57.599 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.xpath: //a[contains(., 'logOut')]found.
+12:03:57.621 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.cssSelector: [href='/login']. . .
+12:03:57.900 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.cssSelector: [href='/login']found.
+12:03:58.934 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.name: email. . .
+12:03:58.992 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.name: emailfound.
+12:03:59.110 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.name: email. . .
+12:03:59.124 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.name: emailfound.
+12:03:59.232 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.name: email. . .
+12:03:59.246 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.name: emailfound.
+12:03:59.610 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.name: password. . .
+12:03:59.630 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.name: passwordfound.
+12:03:59.694 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.name: password. . .
+12:03:59.706 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.name: passwordfound.
+12:03:59.734 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.name: password. . .
+12:03:59.744 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.name: passwordfound.
+12:04:01.806 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.cssSelector: [type='submit']. . .
+12:04:01.860 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.cssSelector: [type='submit']found.
+12:04:04.145 [main] INFO  c.i.q.f.ApplicationManager$MyListener - Start searchBy.xpath: //a[contains(., 'logOut')]. . .
+12:04:04.165 [main] INFO  c.i.q.f.ApplicationManager$MyListener - By.xpath: //a[contains(., 'logOut')]found.
+12:04:04.216 [main] INFO  com.ilcarro.qa.tests.TestBase - PASSED: Test methodloginRegisteredUserPositiveTest
+12:04:04.216 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test 
+12:04:04.216 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================

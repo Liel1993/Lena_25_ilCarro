@@ -1,0 +1,18 @@
+19:30:07.644 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [com.ilcarro.qa.model.User@5b11a194]
+19:30:11.781 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:30:11.781 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:30:11.784 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [com.ilcarro.qa.model.User@62923ee6]
+19:30:22.657 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:30:22.658 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:30:22.659 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [com.ilcarro.qa.model.User@5ebd56e9]
+19:30:26.372 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:30:26.372 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:30:26.374 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [com.ilcarro.qa.model.User@2bffa76d]
+19:30:26.661 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:30:26.662 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:30:26.664 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [com.ilcarro.qa.model.User@4d666b41]
+19:30:30.054 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:30:30.055 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+19:30:30.056 [main] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUpFromCSVDataProvider with data: [com.ilcarro.qa.model.User@58f174d9]
+19:30:30.330 [main] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUpFromCSVDataProvider
+19:30:30.330 [main] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
