@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ilcarro.qa.tests.CreateAccountTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-26T18:36:14" hostname="DESKTOP-3QT7VP8" time="4.203">
+  <properties/>
+  <testcase name="testSignUp" classname="com.ilcarro.qa.tests.CreateAccountTests" time="4.203"/>
+  <system-out><![CDATA[20:36:14.343 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - Start test testSignUp
+20:36:18.583 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - Stop test testSignUp
+20:36:18.583 [Test worker] INFO  com.ilcarro.qa.tests.TestBase - ======================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
